@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs.  It involves attempting an arithmetic operation on a field defined with an alphanumeric data type. This leads to unpredictable behavior and potentially runtime errors.  The solution highlights the importance of correct data type usage and how to correctly perform the desired addition operation.
